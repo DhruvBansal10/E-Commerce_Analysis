@@ -162,5 +162,5 @@ The dashboard consists of three pages:
 
 **Dhruv Bansal**
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub Profile URL)*
+- LinkedIn: linkedin.com/in/dhruvbansal-actuary
+- GitHub: github.com/DhruvBansal10
